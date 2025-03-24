@@ -24,7 +24,7 @@ $(document).ready(function () {
                         <td>${createTime}</td>
                         <td>${statusText}</td>
                         <td><button class="btn-edit">編輯</button></td>
-                        <td><button class="btn-delete">下架</button></td>
+                        <td><button class="btn-deprecated">下架</button></td>
                     </tr>
                 `;
             });
